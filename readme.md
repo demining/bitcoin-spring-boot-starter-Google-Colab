@@ -188,6 +188,10 @@ Before you start, please read the [contributing guidelines](contributing.md).
 - Protocol Buffers: https://developers.google.com/protocol-buffers
 
 
-## License
 
-The project is licensed under the Apache License. See [LICENSE](LICENSE) for details.
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
